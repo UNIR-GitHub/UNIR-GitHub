@@ -1,4 +1,4 @@
-- 👋 This is the Oficial acccount of Universidad Internacional de la Rioja
+- 👋 This is the Oficial acccount of Universidad Internacional de la Rioja - UNIR
 - 👀 Teaching students to use Github
 - 🌱 Only for our students and teachers
 - 💞️ Repositories soon..
